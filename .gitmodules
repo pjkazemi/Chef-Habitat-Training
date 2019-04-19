@@ -1,0 +1,3 @@
+[submodule "Habitat-Cookbooks/habitat"]
+	path = Habitat-Cookbooks/habitat
+	url = https://github.com/chef-cookbooks/habitat.git
